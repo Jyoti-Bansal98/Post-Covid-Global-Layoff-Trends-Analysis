@@ -1,34 +1,40 @@
 # 🌍 Global Layoff Trends Post-COVID: Data Analysis & Visualization
 
 ## 🔹 Project Objective
-This project explores *global layoff trends post-COVID*, analyzing how industries, company stages, funding, and locations influenced workforce reductions. Through clean datasets, SQL & Pandas analysis, and engaging visualizations, it uncovers patterns, highlights the most affected sectors, and provides actionable insights for companies, investors, and policymakers.
+The COVID-19 pandemic caused unpredictable disruptions in global workforce. This project uncovers Global Layoff Trends Post-COVID (2020–2025), analyzing how industries, company stages, funding levels, and locations influenced workforce reductions worldwide. By transforming raw data into interactive and insightful visualizations, it uncovers hidden patterns, highlights the most affected sectors and regions, and tells a clear story of evolving job market dynamics.
+The goal is to deliver actionable, data-driven insights that are easy to explore and understand, enabling recruiters, analysts, investors and policymakers to quickly grasp complex workforce shifts.
 
 ---
 
 ## 🔹 Dataset
-- *Source:* Kaggle / Public dataset  
-- *Rows:* XXXX  
+- *Source:* Kaggle / Public dataset
+- *Dataset Link:* https://www.kaggle.com/datasets/swaptr/layoffs-2022
+- *Rows:* 4150 
 - *Columns:* company, industry, location, stage, funds_raised_millions, total_laid_off, percentage_laid_off, date, country, etc.  
 - *Description:* The dataset contains layoffs information for global companies from 2020 to 2025 (April). It has been cleaned, missing values handled, and columns transformed for analysis.
 
 ---
 
 ## 🔹 Analysis Steps
-1. *Data Cleaning & Preprocessing*
-   - Handling missing values (NaN)  
-   - Standardizing categorical columns (company, industry, location)  
-   - Converting dates and numeric columns  
+1. *Data Cleaning & Preprocessing* 
+   - Standardizing categorical columns (company, industry, location)
+   - Handling missing values (NaN) logically
+   - Converting dates and numeric columns
+   - Removing columns not needed for analysis
 2. *SQL & Pandas Analysis*
-   - Aggregating layoffs by year, month, industry, country, stage, and funding  
+   - Aggregating layoffs by year, month, industry, country, company, location, stage, and funding  
    - Ranking top companies and countries by layoffs  
    - Computing averages and percentages for deeper insights  
 3. *Visualizations & Storytelling*
    - Time-series analysis of layoffs (year-wise, month-wise, month-year)  
    - Country-wise and location-wise analysis  
-   - Company-wise, industry-wise, and stage-wise layoffs  
+   - Company-wise, industry-wise, stage-wise layoffs, % wise layoffs
+   - Top industries by total layoffs each year
+   - Stage-wise total layoffs vs funds raised
+   - Relation between total layoffs and percentage layoffs
    - Interactive and professional storytelling insights for each graph  
 4. *Insights & Business Impact*
-   - Identifying high-risk industries and stages  
+   - Identifying high-risk industries, and stages  
    - Understanding global workforce trends  
    - Linking funding, company stage, and layoffs patterns
 
@@ -42,11 +48,12 @@ This project explores *global layoff trends post-COVID*, analyzing how industrie
 | Country-wise Layoffs | Total layoffs by country, highlighting the most affected |
 | Location-wise Layoffs | Hotspots like SF Bay Area, Seattle, and Bengaluru |
 | Company-wise Layoffs | Top companies affected, with funding overlay |
-| Industry & Stage Analysis | Average % layoffs and total layoffs across industries and company stages |
-| Funding vs Layoffs | Shows relationship between company funding and layoffs |
+| Country, Company, Industry, Funds & Stage Analysis | Average % layoffs and total layoffs across industries, countries and company stage |
+| Relation between total vs % laid offs | Highlights relation between total layoffs as per % of employess laid off per company |
+| Stage-wise Funding vs Layoffs | Shows relationship between company funding and layoffs Stage-wise |
 | Percentage Laid Off Distribution | Counts of companies by percentage layoffs |
 
-All plots include insights, storytelling, and human touch for easy interpretation.
+All plots include insights, and storytelling
 
 ---
 
@@ -63,21 +70,16 @@ All plots include insights, storytelling, and human touch for easy interpretatio
 
 ## 🔹 Future Outlook / Business Impact
 *Questions & Learnings*:  
-1. How do companies at different growth stages behave during crises?  
-   - Early-stage startups face sharp percentage layoffs, while IPO-stage firms shed large absolute numbers. This highlights the need for *balanced hiring and sustainable growth*.  
-
-2. Which industries need better risk management?  
-   - Hardware, Retail, and Travel are highly exposed to market cycles and require *adaptive business models*.  
-
-3. Does high funding prevent layoffs?  
-   - Not necessarily. Even heavily funded giants had to cut jobs, showing that *financial strength alone cannot prevent layoffs*.  
-
-4. How can geographic concentration risk be mitigated?  
-   - Companies should *diversify talent globally* to reduce risk in localized hubs.  
-
+1. Why do some industries collapse faster than others during global shocks?
+   - Because not all sectors are built equally. Hardware, retail, and travel showed us how fragile traditional models can be when the world slows down. These industries           urgently need to build resilient, adaptive strategies if they want to withstand the next disruption.¶
+2. If money means power, why did giants like Meta, Tesla, and Intel still cut jobs?
+   - Funding doesn’t equal stability. These companies had billions at their disposal, yet even they resorted to massive layoffs. The truth is clear: financial strength alone      cannot shield a company from poor planning or sudden downturns.
+3. Are all companies equally at risk, or do some stages carry higher dangers?
+   - Not at all. Startups often face percentage-heavy cuts, but IPO-stage companies pose the largest systemic workforce risks. Their sheer size means even a small adjustment      can put hundreds of thousands of jobs on the line - something policymakers and investors must keep in mind.
+4. Why did the U.S. dominate the layoff charts?
+   - Because of concentration risk. With hubs like SF Bay Area and Seattle driving global tech, the U.S. became the epicenter of layoffs. The lesson? Diversifying talent          globally can spread the risk and create a more balanced, shock-proof workforce.
+5. What’s the real fix to prevent mass layoffs?
+   - It starts with smarter workforce planning. Companies need to rethink how they hire and scale - focusing on sustainable growth instead of overexpansion that eventually        forces painful mass cuts.
 ---
 
-## 🔹 How to Run
-1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/Global_Layoffs_Analysis.git
+# This project not only visualizes layoffs but also provides oa lens into how businesses can prepare for future shocks in a more sustainable and resilient way.
