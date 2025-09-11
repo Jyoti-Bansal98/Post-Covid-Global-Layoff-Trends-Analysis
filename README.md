@@ -1,5 +1,3 @@
-# Post-Covid-Global-Layoff-Trends-Analysis
-
 # 🌍 Global Layoff Trends Post-COVID: Data Analysis & Visualization
 
 ## 🔹 Project Objective
