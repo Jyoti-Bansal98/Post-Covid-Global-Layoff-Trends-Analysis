@@ -82,4 +82,4 @@ All plots include insights, and storytelling
    - It starts with smarter workforce planning. Companies need to rethink how they hire and scale - focusing on sustainable growth instead of overexpansion that eventually        forces painful mass cuts.
 ---
 
-# This project not only visualizes layoffs but also provides a lens into how businesses can prepare for future shocks in a more sustainable and resilient way.
+##🔹This project not only visualizes layoffs but also provides a lens into how businesses can prepare for future shocks in a      more sustainable and resilient way.
