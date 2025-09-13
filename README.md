@@ -83,7 +83,7 @@ To understand the global layoff patterns post-COVID, I analysed the dataset acro
 <img src="images/Top%2010%20Industries%20by%20Avg%20%%20Laid%20off.png" alt = "Avg %-wise Layoffs" width = "500"/>
 
 ###  🏢  Company Layoffs: Total vs Avg % Laid Off
-<img src="images/Total%20vs%20Avg%20%%20Laid%20off.png" alt = "Total vs Avg % Layoffs" width = "500"/>
+<img src="images/Total%20vs%20Avg%20%25%20Laid%20off.png" alt = "Total vs Avg % Layoffs" width = "500"/>
 
 ---
 
