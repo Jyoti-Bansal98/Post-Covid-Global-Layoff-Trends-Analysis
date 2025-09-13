@@ -40,20 +40,9 @@ The goal is to deliver actionable, data-driven insights that are easy to explore
 
 ---
 
-## 🔹 Key Visualizations
-| Visualization | Description |
-|---------------|-------------|
-| Year-wise Total Layoffs | Shows global layoffs trend from 2020–2025 |
-| Month-wise Layoffs | Identifies peak and low months across years |
-| Country-wise Layoffs | Total layoffs by country, highlighting the most affected |
-| Location-wise Layoffs | Hotspots like SF Bay Area, Seattle, and Bengaluru |
-| Company-wise Layoffs | Top companies affected, with funding overlay |
-| Country, Company, Industry, Funds & Stage Analysis | Average % layoffs and total layoffs across industries, countries and company stage |
-| Relation between total vs % laid offs | Highlights relation between total layoffs as per % of employess laid off per company |
-| Stage-wise Funding vs Layoffs | Shows relationship between company funding and layoffs Stage-wise |
-| Percentage Laid Off Distribution | Counts of companies by percentage layoffs |
+## 🔹 Analysis & Key Visualizations
+To understand the global layoff patterns post-COVID, I analysed the dataset across time, industry, country, location, company, stage and funding. The visualizations below highlight key trends and insights.
 
-All plots include insights, and storytelling
 
 ---
 
