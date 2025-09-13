@@ -42,22 +42,30 @@ The goal is to deliver actionable, data-driven insights that are easy to explore
 
 ## 🔹 Analysis & Key Visualizations
 To understand the global layoff patterns post-COVID, I analysed the dataset across time, industry, country, location, company, stage and funding. The visualizations below highlight key trends and insights.
-##  🗓️  Time-Based Analysis
-###  Year-wise Layoffs Trend
+##  📌  Time-Based Analysis
+###  🗓️  Year-wise Layoffs Trend
 <img src="images/lineplot%20for%20Year-wise%20Total%20Layoffs.png" alt = "Year-wise Layoffs" width = "600"/>
 
-###  Month-wise Layoffs Trend
+###  🗓️  Month-wise Layoffs Trend
 <img src="images/Barplot%20for%20Total%20Layoffs%20per%20Month.png" alt = "Month-wise Layoffs" width = "600"/>
 
-###  Month-Year wise Layoffs Trend
+###  🗓️  Month-Year wise Layoffs Trend
 <img src="images/Heatmap%20for%20Month-Year%20wise%20Total%20Layoff.png" alt = "Month-Year Layoffs" width = "600"/>
 
-##  🌍  Geographic Analysis
-###  Country-wise Layoffs Trend
-<img src="images/Top%2010%20Countries%20by%20Total%20Layoffs.png" alt = "Year-wise Layoffs" width = "600"/>
+##  📌  Geographic Analysis
+###  🌍  Country-wise Layoffs Trend
+<img src="images/Top%2010%20Countries%20by%20Total%20Layoffs.png" alt = "Country-wise Layoffs" width = "600"/>
 
-### Location-wise Layoffs Trend
-<img src="images/lineplot%20for%20Year-wise%20Total%20Layoffs.png" alt = "Year-wise Layoffs" width = "500"/>
+### 📍  Location-wise Layoffs Trend
+<img src="images/Barplot%20for%20Location%20by%20Layoffs.png" alt = "Location-wise Layoffs" width = "600"/>
+
+##  📌  Industry & Company Analysis
+### 🏭  Industry-wise Layoffs Trend
+<img src="images/Barplot%20for%20Top%20Industry%20by%20Total%20Layoffs%20Each%20Year.png" alt = "Industry-wise Layoffs" width = "600"/>
+
+<img src="images/Barplot%20for%20Top%20Industry%20by%20Total%20Layoffs%20in%20Top%2010%20Countries.png" alt = "Industry-wise Layoffs" width = "600"/>
+
+
 ---
 
 ## 🔹 Insights & Key Findings
