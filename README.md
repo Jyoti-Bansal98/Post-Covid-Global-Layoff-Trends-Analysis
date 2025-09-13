@@ -47,7 +47,7 @@ To understand the global layoff patterns post-COVID, I analysed the dataset acro
 <img src="images/lineplot%20for%20Year-wise%20Total%20Layoffs.png" alt = "Year-wise Layoffs" width = "500"/>
 
 ###  📅  Month-wise Layoffs Trend
-<img src="images/Barplot%20for%20Total%20Layoffs%20Per%20Month.png" alt = "Month-wise Layoffs" width = "500"/>
+<img src="images/Barplot%20for%20Total%20Layoffs%20per%20Month.png" alt = "Month-wise Layoffs" width = "500"/>
 
 ---
 
