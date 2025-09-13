@@ -63,7 +63,7 @@ To understand the global layoff patterns post-COVID, I analysed the dataset acro
 ### 🏭  Industry-wise Layoffs Trend
 <img src="images/Barplot%20for%20Top%20Industry%20by%20Total%20Layoffs%20Each%20Year.png" alt = "Industry-wise Layoffs" width = "600"/>
 
-<img src="images/Barplot%20for%20Top%20Industry%20by%20Total%20Layoffs%20in%20Top%2010%20Countries.png" alt = "Industry-wise Layoffs" height = "300"/>
+<img src="images/Barplot%20for%20Top%20Industry%20by%20Total%20Layoffs%20in%20Top%2010%20Countries.png" alt = "Industry-wise Layoffs" height = "500"/>
 
 
 
