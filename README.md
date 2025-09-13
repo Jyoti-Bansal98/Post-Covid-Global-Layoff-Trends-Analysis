@@ -44,7 +44,7 @@ The goal is to deliver actionable, data-driven insights that are easy to explore
 To understand the global layoff patterns post-COVID, I analysed the dataset across time, industry, country, location, company, stage and funding. The visualizations below highlight key trends and insights.
 ##  📌  Time-Based Analysis
 ###  🗓️  Year-wise Layoffs Trend
-![Year-wise Layoffs](images/lineplot%20for%20Year-wise%20Total%20Layoffs.png)
+<img src="images/lineplot%20for%20Year-wise%20Total%20Layoffs.png" alt = "Year-wise Layoffs" width = "500"/>
 
 ---
 
