@@ -45,23 +45,30 @@ To understand the global layoff patterns post-COVID, I analysed the dataset acro
 ##  📌  Time-Based Analysis
 ###  🗓️  Year-wise Layoffs Trend
 <img src="images/lineplot%20for%20Year-wise%20Total%20Layoffs.png" alt = "Year-wise Layoffs" width = "600"/>
+The year-wise trend reveals a sharp surge in layoffs, peaking in **2023** with over 300,000 job cuts. Between 2021 and 2023, workforce reductions accelerated dramatically, largely reflecting the prolonged impact of the COVID-19 pandemic on global businesses and its aftereffects shook the job market. This highlights how economic recovery was uneven, with many industries forced to downsize even after the initial crisis and the employees ended up paying the price.
 
 ##  📌  Industry & Company Analysis
 ###  🏭  Top Industry by Total Layoffs Each Year
 <img src="images/Barplot%20for%20Top%20Industry%20by%20Total%20Layoffs%20Each%20Year.png" alt = "Industry-wise Layoffs" width = "600"/>
+Breaking it down year by year. Layoffs didn't hit every industry equally. In 2020, **Travel** was worst affected, followed by **Consumer** in 2021 and **Retail** in 2022. By 2023, layoffs spread broadly across sectors, but in **2024-2025, Hardware** clearly became the Hardest hit, showing how the impact of the pandemic kept shifting over time.
 
 ###  🏢  Top Companies by Funding: Total Layoffs
 <img src="images/Top%2010%20Companies%20by%20Funding%20and%20Layoffs.png" alt = "Company-wise Layoffs" width = "600"/>
-
+Looking at the top 10 companies, some interesting contrasts emerge. Netflix raised the highest funding yet had the fewest layoffs, while Meta faced the largest cuts. Flipkart, despite the lowest funding, also kept layoffs low. This highlights that funding isn’t everything, strategy and timing play a big role.
 
 ##  📌  Stage-wise Layoffs Trend & Funding Analysis
 ###  💰  Stage-wise Total Layoffs vs Funds Raised
 <img src="images/Stage-wise%20Total%20Layoffs%20vs%20Funds%20Raised.png" alt = "stage-wise Layoffs" width = "600"/>
+When we look at total layoffs alongside company stage and funding, a clear pattern emerges: Post-IPO companies not only had the highest layoffs but also raised the most funding—over 1.75 (Million $). While Series I startups experienced the fewest layoffs, which aligns with their comparatively lower funding.
 
 ##  📌  Percentage Layoffs Analysis
 ###  🏢  Company Layoffs: Total vs Avg % Laid Off
 <img src="images/Total%20vs%20Avg%20%25%20Laid%20off.png" alt = "Total vs Avg % Layoffs" width = "600"/>
+Exploring the relationship between total layoffs and percentage layoffs, we notice that most workforce reductions happened in the 0–20% range, typically involving 0–5,000 employees per record. Interestingly, cases where 100% of employees were laid off involve very small teams, highlighting that high-percentage layoffs are mostly limited to smaller companies, while larger layoffs tend to be partial rather than total.
 
+##  📊  Explore More Visualizations
+
+Only a few key charts are shown here. For the detailed visualizations with story telling insights, explore the full Jupyter Notebook [here](./notebooks/Global%20Layoff%20Analysis.ipynb) or check the [Visualizations](./images)
 
 ---
 
