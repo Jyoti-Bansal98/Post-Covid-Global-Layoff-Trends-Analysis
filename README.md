@@ -46,12 +46,6 @@ To understand the global layoff patterns post-COVID, I analysed the dataset acro
 ###  🗓️  Year-wise Layoffs Trend
 <img src="images/lineplot%20for%20Year-wise%20Total%20Layoffs.png" alt = "Year-wise Layoffs" width = "600"/>
 
-###  🗓️  Month-wise Layoffs Trend
-<img src="images/Barplot%20for%20Total%20Layoffs%20per%20Month.png" alt = "Month-wise Layoffs" width = "600"/>
-
-###  🗓️  Month-Year wise Layoffs Trend
-<img src="images/Heatmap%20for%20Month-Year%20wise%20Total%20Layoff.png" alt = "Month-Year Layoffs" width = "600"/>
-
 ##  📌  Geographic Analysis
 ###  🌍  Country-wise Layoffs Trend
 <img src="images/Top%2010%20Countries%20by%20Total%20Layoffs.png" alt = "Country-wise Layoffs" width = "600"/>
@@ -60,32 +54,14 @@ To understand the global layoff patterns post-COVID, I analysed the dataset acro
 <img src="images/Barplot%20for%20Location%20by%20Layoffs.png" alt = "Location-wise Layoffs" width = "600"/>
 
 ##  📌  Industry & Company Analysis
-### 🏭  Industry-wise Layoffs Trend
-<img src="images/Barplot%20for%20Industries%20by%20Total%20Layoffs.png" alt = "Industry-wise Layoffs" width = "600" height = "400"/>
-
 ###  🏭  Top Industry by Total Layoffs Each Year
 <img src="images/Barplot%20for%20Top%20Industry%20by%20Total%20Layoffs%20Each%20Year.png" alt = "Industry-wise Layoffs" width = "600"/>
 
-###  🏭  Top Industry by Total Layoffs in Top Countries
-<img src="images/Barplot%20for%20Top%20Industry%20by%20Total%20Layoffs%20in%20Top%2010%20Countries.png" alt = "Industry-wise Layoffs" height = "500"/>
-
-###  🏢  Company-wise Layoffs Trend
-<img src="images/Barplot%20for%20Companies%20by%20Total%20Layoffs.png" alt = "Company-wise Layoffs" width = "600"/>
-
 ##  📌  Stage-wise Layoffs Trend & Funding Analysis
-###  📈  Stage-wise Total Layoffs Trend
-<img src="images/Barplot%20for%20Stage-Wise%20Total%20Layoffs.png" alt = "Stage-wise Layoffs" width = "600"/>
-
 ###  💰  Stage-wise Total Layoffs vs Funds Raised
 <img src="images/Stage-wise%20Total%20Layoffs%20vs%20Funds%20Raised.png" alt = "stage-wise Layoffs" width = "600"/>
 
 ##  📌  Percentage Layoffs Analysis
-###  📊  Stage-wise Avg % Layoffs
-<img src="images/Stage-Wise%20Avg%20%25%20Layoffs.png" alt = "Percentage-wise Layoffs" width = "600"/>
-
-###  🏭  Industries by Avg % of Workforce Laid Off
-<img src="images/Top%2010%20Industries%20by%20Avg%20%25%20Laid%20off.png" alt = "Avg %-wise Layoffs" width = "600"/>
-
 ###  🏢  Company Layoffs: Total vs Avg % Laid Off
 <img src="images/Total%20vs%20Avg%20%25%20Laid%20off.png" alt = "Total vs Avg % Layoffs" width = "600"/>
 
