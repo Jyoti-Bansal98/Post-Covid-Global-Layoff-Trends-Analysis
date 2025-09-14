@@ -53,6 +53,7 @@ To understand the global layoff patterns post-COVID, I analysed the dataset acro
 ###  🏢  Top Companies by Funding: Total Layoffs
 <img src="images/Top%2010%20Companies%20by%20Funding%20and%20Layoffs.png" alt = "Company-wise Layoffs" width = "600"/>
 
+
 ##  📌  Stage-wise Layoffs Trend & Funding Analysis
 ###  💰  Stage-wise Total Layoffs vs Funds Raised
 <img src="images/Stage-wise%20Total%20Layoffs%20vs%20Funds%20Raised.png" alt = "stage-wise Layoffs" width = "600"/>
@@ -60,6 +61,7 @@ To understand the global layoff patterns post-COVID, I analysed the dataset acro
 ##  📌  Percentage Layoffs Analysis
 ###  🏢  Company Layoffs: Total vs Avg % Laid Off
 <img src="images/Total%20vs%20Avg%20%25%20Laid%20off.png" alt = "Total vs Avg % Layoffs" width = "600"/>
+
 
 ---
 
