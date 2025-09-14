@@ -68,7 +68,7 @@ Exploring the relationship between total layoffs and percentage layoffs, we noti
 
 ##  📊  Explore More Visualizations
 
-Only a few key charts are shown here. For the detailed visualizations with story telling insights, explore the full Jupyter Notebook [Notebook](./Global%20Layoff%20Analysis.ipynb) or check the [Visualizations](./images)
+Only a few key charts are shown here. For the detailed visualizations with story telling insights, explore the full [Jupyter Notebook](./Global%20Layoff%20Analysis.ipynb) or check the [Visualizations](./images)
 
 ---
 
