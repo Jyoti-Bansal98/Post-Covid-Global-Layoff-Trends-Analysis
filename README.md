@@ -4,7 +4,7 @@
 The COVID-19 pandemic caused unpredictable disruptions in global workforce. This project uncovers Global Layoff Trends Post-COVID (2020–2025), analyzing how industries, company stages, funding levels, and locations influenced workforce reductions worldwide. By transforming raw data into interactive and insightful visualizations, it uncovers hidden patterns, highlights the most affected sectors and regions, and tells a clear story of evolving job market dynamics.
 The goal is to deliver actionable, data-driven insights that are easy to explore and understand, enabling recruiters, analysts, investors and policymakers to quickly grasp complex workforce shifts.
 
----
+--- 
 
 ## 🔹 Dataset
 - *Source:* Kaggle / Public dataset
