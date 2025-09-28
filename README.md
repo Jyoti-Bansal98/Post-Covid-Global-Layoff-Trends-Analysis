@@ -12,6 +12,7 @@ The goal is to deliver actionable, data-driven insights that are easy to explore
 - *Rows:* 4150 
 - *Columns:* company, industry, location, stage, funds_raised_millions, total_laid_off, percentage_laid_off, date, country, etc.  
 - *Description:* The dataset contains layoffs information for global companies from 2020 to 2025 (April). It has been cleaned, missing values handled, and columns transformed for analysis.
+- *Tools & Technologies:* Python(pandas, matplotlib, seaborn), SQL, Power Bi
 
 ---
 
@@ -21,7 +22,7 @@ The goal is to deliver actionable, data-driven insights that are easy to explore
    - Handling missing values (NaN) logically
    - Converting dates and numeric columns
    - Removing columns not needed for analysis
-2. *SQL & Pandas Analysis*
+2. *SQL Analysis*
    - Aggregating layoffs by year, month, industry, country, company, location, stage, and funding  
    - Ranking top companies and countries by layoffs  
    - Computing averages and percentages for deeper insights  
@@ -37,6 +38,9 @@ The goal is to deliver actionable, data-driven insights that are easy to explore
    - Identifying high-risk industries, and stages  
    - Understanding global workforce trends  
    - Linking funding, company stage, and layoffs patterns
+5. *Dashboard Creation*
+   - Created dashboard using Power Bi
+   - Visualize trends in global layoffs across different parameters.
 
 ---
 
@@ -71,6 +75,14 @@ Exploring the relationship between total layoffs and percentage layoffs, we noti
 Only a few key charts are shown here. For the detailed visualizations with story telling insights, explore the full [Jupyter Notebook](./Global%20Layoff%20Analysis.ipynb) or check the [Visualizations](./images)
 
 ---
+
+## 🔹 Dashboard
+**Layoffs Dashboard Overview:**
+This Dashboard visualizes trends in global layoffs across different parameters like industry, company, funding, stage-wise,
+and geography.
+
+<img src="Dashboard/Dashboard-image.png" alt = "Dashboard-imagge" width = "600"/>
+
 
 ## 🔹 Insights & Key Findings
 - *Post-COVID layoffs peaked* between 2021–2023, with Jan 2023 showing the highest layoffs globally.  
