@@ -71,12 +71,15 @@ Only a few key charts are shown here. For the detailed visualizations with story
 
 ---
 
-## 🔹 Dashboard
+## 🔹 Power Bi Dashboard
 **Layoffs Dashboard Overview:**
 This Dashboard visualizes trends in global layoffs across different parameters like industry, company, funding, stage-wise,
 and geography.
 
 <img src="Dashboard/Dashboard-image.png" alt = "Dashboard-imagge" width = "700"/>
+
+You can download the full interactive dashboard here:
+[Power Bi Dashboard File](Dashboard/Post-Covid%20Layoffs.pbix)
 
 ---
 
