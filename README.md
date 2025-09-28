@@ -66,7 +66,7 @@ Looking at the top 10 companies, some interesting contrasts emerge. Netflix rais
 When we look at total layoffs alongside company stage and funding, a clear pattern emerges: Post-IPO companies not only had the highest layoffs but also raised the most funding—over 1.75 (Million $). While Series I startups experienced the fewest layoffs, which aligns with their comparatively lower funding.
 
 ##  📊  Explore More Visualizations
-
+ 
 Only a few key charts are shown here. For the detailed visualizations with story telling insights, explore the full [Jupyter Notebook](./Global%20Layoff%20Analysis.ipynb) or check the [Visualizations](./images)
 
 ---
