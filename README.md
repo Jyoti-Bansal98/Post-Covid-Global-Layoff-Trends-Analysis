@@ -34,13 +34,13 @@ The goal is to deliver actionable, data-driven insights that are easy to explore
    - Stage-wise total layoffs vs funds raised
    - Relation between total layoffs and percentage layoffs
    - Interactive and professional storytelling insights for each graph  
-4. *Insights & Business Impact*
-   - Identifying high-risk industries, and stages  
-   - Understanding global workforce trends  
-   - Linking funding, company stage, and layoffs patterns
-5. *Dashboard Creation*
+4. *Dashboard Creation*
    - Created dashboard using Power Bi
    - Visualize trends in global layoffs across different parameters.
+5. *Insights & Business Impact*
+   - Identifying high-risk industries, and stages  
+   - Understanding global workforce trends  
+   - Linking funding, company stage, and layoffs patterns.
 
 ---
 
@@ -81,7 +81,7 @@ Only a few key charts are shown here. For the detailed visualizations with story
 This Dashboard visualizes trends in global layoffs across different parameters like industry, company, funding, stage-wise,
 and geography.
 
-<img src="Dashboard/Dashboard-image.png" alt = "Dashboard-imagge" width = "600"/>
+<img src="Dashboard/Dashboard-image.png" alt = "Dashboard-imagge" width = "700"/>
 
 
 ## 🔹 Insights & Key Findings
