@@ -65,11 +65,6 @@ Looking at the top 10 companies, some interesting contrasts emerge. Netflix rais
 <img src="images/Stage-wise%20Total%20Layoffs%20vs%20Funds%20Raised.png" alt = "stage-wise Layoffs" width = "600"/>
 When we look at total layoffs alongside company stage and funding, a clear pattern emerges: Post-IPO companies not only had the highest layoffs but also raised the most funding—over 1.75 (Million $). While Series I startups experienced the fewest layoffs, which aligns with their comparatively lower funding.
 
-##  📌  Percentage Layoffs Analysis
-###  🏢  Company Layoffs: Total vs Avg % Laid Off
-<img src="images/Total%20vs%20Avg%20%25%20Laid%20off.png" alt = "Total vs Avg % Layoffs" width = "600"/>
-Exploring the relationship between total layoffs and percentage layoffs, we notice that most workforce reductions happened in the 0–20% range, typically involving 0–5,000 employees per record. Interestingly, cases where 100% of employees were laid off involve very small teams, highlighting that high-percentage layoffs are mostly limited to smaller companies, while larger layoffs tend to be partial rather than total.
-
 ##  📊  Explore More Visualizations
 
 Only a few key charts are shown here. For the detailed visualizations with story telling insights, explore the full [Jupyter Notebook](./Global%20Layoff%20Analysis.ipynb) or check the [Visualizations](./images)
@@ -83,6 +78,7 @@ and geography.
 
 <img src="Dashboard/Dashboard-image.png" alt = "Dashboard-imagge" width = "700"/>
 
+---
 
 ## 🔹 Insights & Key Findings
 - *Post-COVID layoffs peaked* between 2021–2023, with Jan 2023 showing the highest layoffs globally.  
