@@ -67,7 +67,7 @@ When we look at total layoffs alongside company stage and funding, a clear patte
 
 ##  📊  Explore More Visualizations
  
-Only a few key charts are shown here. For the detailed visualizations with story telling insights, explore the full [Jupyter Notebook](./Global%20Layoff%20Analysis.ipynb) or check the [Visualizations](./images)
+Only a few key charts are shown here. For the detailed visualizations with story telling insights, explore the full [Jupyter Notebook](Jupyter-Notebook/Global%20Layoff%20Analysis.ipynb) or check the [Visualizations](./images)
 
 ---
 
