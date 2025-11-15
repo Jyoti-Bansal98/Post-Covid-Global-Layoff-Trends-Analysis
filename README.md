@@ -5,7 +5,7 @@ The COVID-19 pandemic caused unpredictable disruptions in global workforce. This
 The goal is to deliver actionable, data-driven insights that are easy to explore and understand, enabling recruiters, analysts, investors and policymakers to quickly grasp complex workforce shifts.
 
 --- 
-
+ 
 ## 🔹 Dataset
 - *Source:* Kaggle / Public dataset
 - *Dataset Link:* https://www.kaggle.com/datasets/swaptr/layoffs-2022
